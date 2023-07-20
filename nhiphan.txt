@@ -1,0 +1,16 @@
+0 1 2 3 4 5
+2 3 6 8 9 10
+
+int i = 0, j = 5, n = 8
+
+while(i != j) {
+	m = (i + j)/2
+	if(a[m] == n) return true
+	else if(a[m] < n) {
+		i = m + 1 
+else
+j = m - 1
+
+return false
+}
+
